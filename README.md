@@ -1,11 +1,11 @@
-# Material clases del 7mo semestre turno nocturno UAH
+# Material clases Sección DCN0701 - UAH
 
 ## - Arquitectura del computador
 
 Información General:
 
 _Las clases corresponden al horario inscrito, en el caso del turno nocturno corresponden al horario:_ 
->- Martes 7:15 PM : 9:30 PM, 
+>- Martes 7:15 PM : 9:30 PM
 >- Jueves 8:00 PM : 9:30 PM
 
 _El plan de evaluación se encuentra en la carpeta:_
@@ -43,13 +43,11 @@ Enlaces:
 
 Información General:
 
-Profesor: _William Salaverria_
-
 _Todas las asignaciones de la materia se realizarán en grupos de 3 personas_
 
 _El cronograma de evaluación y contenido programático de la materia se encuentran en la carpeta:_
 ~~~
-    Desarrollo_de_software
+Desarrollo_de_software
 ~~~
 
 Información Prof:
