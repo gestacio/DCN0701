@@ -16,7 +16,7 @@ Información Prof.
 ~~~
 - Nombre: Gustavo Jimenez
 - Telf: 0412-2386812
-- Email: 
+- Email: jimenezga@hotmail.com
 ~~~
 
 Enlaces:
