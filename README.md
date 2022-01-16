@@ -1,5 +1,8 @@
 # Material clases Sección DCN0701 - UAH
 
+# Aularios Ing. Informática 2022-1
+> https://docs.google.com/spreadsheets/d/1d37abyYFv2C1ZVn0WLQB1sVfIlnA6Rcn/edit#gid=515622201
+***
 ## - Arquitectura del computador
 
 Información General:
