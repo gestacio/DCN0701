@@ -35,6 +35,16 @@ Enlaces:
 - Archivos Google Drive
     > https://photos.app.goo.gl/b5Hh5Sw9dZHGTm8L6
 
+- Recomendados por el prof
+    > - Puertas Lógicas
+    > https://es.wikipedia.org/wiki/Puerta_l%C3%B3gica
+    > - Sistema Binario
+    > https://www.youtube.com/watch?v=w-itbNvOG4A
+    > - Álgebra Booleana
+    > https://youtu.be/p58C7OWe3Xk
+    > - Simulador 8085
+    > http://www.ugr.es/~amgg/programas.html
+
 
 ***
 
